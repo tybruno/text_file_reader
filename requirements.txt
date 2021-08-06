@@ -1,0 +1,1 @@
+file_reader @ git+https://github.com/tybruno/file_reader.git#egg=file_reader
